@@ -55,25 +55,25 @@ img{
     opacity: 0.7;
 }
 .card1 .container::after{
-    background-image: linear-gradient(135deg,#0404ca,#0e0d0e,#000000,#f4bc13);
+    background-image: linear-gradient(135deg);
 
 }
 .card2 .container::after{
-    background-image: linear-gradient(135deg,#0404ca,#242425,#000000,#30302f);
+    background-image: linear-gradient(135deg);
     
 }
 .card3 .container::after{
-    background-image: linear-gradient(135deg,#3f3e3e,#242628,#242425,#000000);
+    background-image: linear-gradient(135deg);
 
 }
 .card4 .container::after{
-    background-image: linear-gradient(135deg,#000000,#020202);
+    background-image: linear-gradient(135deg);
 }
 .card5 .container::after{
-    background-image: linear-gradient(135deg,#000000,#020202);
+    background-image: linear-gradient(135deg);
 }
 .card6 .container::after{
-    background-image: linear-gradient(135deg,#9f9c9c,#969292);
+    background-image: linear-gradient(135deg);
 }
 .heading{
     padding: 20px 10px;
